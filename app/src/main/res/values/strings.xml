@@ -1,0 +1,21 @@
+<resources>
+    <!--    First Activity-->
+    <string name="app_name">IntentsProj</string>
+    <string name="f_no1">Number 1</string>
+    <string name="f_no2">Number 2</string>
+    <string name="f_num1">Enter First Number</string>
+    <string name="f_num2">Enter Second Number</string>
+    <string name="f_btn1">OK</string>
+
+    <!--    Second Activity-->
+    <string name="s_no1">Number 1</string>
+    <string name="s_no2">Number 2</string>
+    <string name="s_num1">Number 1</string>
+    <string name="s_num2">Number 2</string>
+    <string name="s_answer">Answer</string>
+    <string name="s_add">+</string>
+    <string name="s_sub">-</string>
+    <string name="s_mul">*</string>
+    <string name="s_div">/</string>
+    <string name="s_label">Answer</string>
+</resources>
